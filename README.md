@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod "FEUserManager"
 ```
 
-## Author
-
-Jeff, W_Jeff@126.com
-
 ## License
 
 FEUserManager is available under the MIT license. See the LICENSE file for more info.
