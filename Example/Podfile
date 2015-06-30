@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'FEUserManager_Example', :exclusive => true do
+  pod "FEUserManager", :path => "../"
+end
+
+target 'FEUserManager_Tests', :exclusive => true do
+  pod "FEUserManager", :path => "../"
+
+  
+end

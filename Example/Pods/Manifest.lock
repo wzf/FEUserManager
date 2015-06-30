@@ -1,0 +1,14 @@
+PODS:
+  - FEUserManager (0.1.0)
+
+DEPENDENCIES:
+  - FEUserManager (from `../`)
+
+EXTERNAL SOURCES:
+  FEUserManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FEUserManager: 6aab364acaebebc913dd8738ab96573cb57338e1
+
+COCOAPODS: 0.37.2

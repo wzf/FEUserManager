@@ -1,0 +1,25 @@
+{
+  "name": "FEUserManager",
+  "version": "0.1.0",
+  "summary": "A short description of FEUserManager.",
+  "description": "                       An optional longer description of FEUserManager\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
+  "homepage": "https://github.com/wzf/FEUserManager",
+  "license": "MIT",
+  "authors": {
+    "Jeff": "feng4job@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/wzf/FEUserManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "FEUserManager": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
